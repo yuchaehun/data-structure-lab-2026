@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="Lec02_Findmax/Lec02_Findmax.vcxproj" />
+  <Project Path="Lec02_Findmax/Lec02_Findmax.vcxproj" Id="ee06c06e-dcd2-46a6-ae31-2691bf933588" />
 </Solution>
