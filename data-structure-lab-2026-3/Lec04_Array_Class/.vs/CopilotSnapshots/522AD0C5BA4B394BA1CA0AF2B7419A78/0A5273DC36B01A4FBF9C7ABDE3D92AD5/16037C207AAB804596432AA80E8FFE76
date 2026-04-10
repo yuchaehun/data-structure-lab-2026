@@ -1,0 +1,16 @@
+﻿#ifndef IMAGE_UTILS_H
+#define IMAGE_UTILS_H
+
+#include <array>
+
+// #define 대신 모던 C++ 방식인 constexpr 사용
+constexpr int HEIGHT = 8;
+constexpr int WIDTH = 8;
+
+// 가독성을 높이기 위해 std::array 기반 2차원 배열에 별칭(alias) 부여
+using Image2D = std::array<std::array<int, WIDTH>, HEIGHT>;
+
+// 최대 화소 밝기를 구하는 함수 선언
+int getMaxBrightness(const Image2D& img);
+
+#endif // IMAGE_UTILS_H
