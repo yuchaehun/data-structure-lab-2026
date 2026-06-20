@@ -1,0 +1,10 @@
+﻿  main.cpp
+C:\Users\user\OneDrive\문서\data-structure-lab-2026\data-structure-lab-2026\Lec04_Array_class\SportsCar\Car.h(14,3): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (소스 파일 'main.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\OneDrive\문서\data-structure-lab-2026\data-structure-lab-2026\Lec04_Array_class\SportsCar\Car.h(25,27): warning C4477: 'printf' : 서식 문자열 '%x'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'Car *'입니다.
+  (소스 파일 'main.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\OneDrive\문서\data-structure-lab-2026\data-structure-lab-2026\Lec04_Array_class\SportsCar\Car.h(25,27): warning C4313: 'printf': 서식 문자열의 '%x'이(가) Car *' 형식의 인수 1과(와) 충돌합니다.
+  (소스 파일 'main.cpp'을(를) 컴파일하는 중)
+  
